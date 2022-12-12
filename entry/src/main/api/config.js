@@ -1,4 +1,20 @@
+/*
+ * Copyright 2020. Huawei Technologies Co., Ltd. All rights reserved.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 export const Config = {
-    apiKey: 'DAADAJF/qiout7mPJmXvFc18tFeEJY3NXolT4DSeymQpjjh+mj3esoCMwOOw7SPIWE17lEW15nqojRc0MCMQswVeS9FyamtV6lQLKw==',
-    clientSecret: 'D75B6128F3C631375EB2398D5596262E95C79A407F30247BE4C8B114D90C90D2'
+    apiKey: '',
+    clientSecret: ''
 }
