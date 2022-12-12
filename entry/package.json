@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@ohos/agconnect-lowcode": "^1.0.4-st.2"
+  }
+}
